@@ -1,2 +1,3 @@
 # java
-java application code
+java application about strong number
+
